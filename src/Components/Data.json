@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "nguyen thi mai lan",
+        "tel": "0339062167",
+        "permission":1
+    },
+    {
+        "id": 2,
+        "name": "Nguyen kim dao",
+        "tel": "000000",
+        "permission":1
+    },
+    {
+        "id": 3,
+        "name": "hoang hiep",
+        "tel": "234567",
+        "permission":2
+    },
+    {
+        "id": 4,
+        "name": "nguyen phuowng linh",
+        "tel": "987654",
+        "permission":1
+    },
+    {
+        "id": 5,
+        "name": "hoang hoa tham",
+        "tel": "876543456",
+        "permission":3
+    }
+
+]
